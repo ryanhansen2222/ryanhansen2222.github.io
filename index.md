@@ -1,5 +1,6 @@
 # Ryan Hansen
-
+title: Welcome to Ryanville
+description: Amazement
 Welcome to **Ryanville**, home of my thoughts, dreams, and humble autobiography.
 _Note_, this is a perpetual work in progress site. I wouldn't call it a blog, but it is the central hub of my mental castle
 
