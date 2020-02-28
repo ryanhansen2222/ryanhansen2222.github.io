@@ -38,8 +38,7 @@ Watch TV (Comedy, Action as long as they get a good lead like the first Thor mov
 Video Games (Civilization 5 is the irrefutable most beautiful masterpiece of game technology to ever grace this world. Also I like dark souls and most RPGs i've tried.)
 Explore + try new things
 
-## Sense of Humor
-Witty, Absurdist, and Relatable (In most scenarios, the amount I laugh is directly proportional to how weird and creative something is)
+
 
 ## Music I like
 Working top 10: [Top 10](https://www.youtube.com/playlist?list=PL-6hxOwG1xJlavPiv3NxLY5_K1CDRX2aA)
