@@ -15,6 +15,10 @@ _Note_, this is a perpetual work in progress site. I wouldn't call it a blog, bu
 8. Research: Find some Modeling, pattern finding, or other theory problem that is super interesting and meaningful
 9. I Really want to travel around the world and find people with interesting jobs and interview them to see what they like and dislike about their career. I hope to find something perfect for me that way, and maybe make indecision obsolete.
 10. Get a wild job
+11. Resin Mobius Strip in a cube (Paper covered in resin)
+12. buy a ton of magnets - make a float key holder - rocks in it and everything.
+13. Water features
+14. Plants (Cactus)
 
 ## Research
 My hope is to use abstract math like category theory and topology, apply it to some phenomena, and notice that certain abstract properties happen to be very meaningful. 
@@ -22,6 +26,7 @@ I like representation problems, where representing problems in different models 
 I like abstracting ideas and making things general.
 I like to model things and draw conclusions from those models (if the model was in _THIS_ scenario, interesting behavior happens that we may seek or avoid)
 I like exploratory stuff and general advancement of my knowledge (My hope is that building up my toolbox will help me be able to solve more problems, or even be inspired by various ideas and apply them elsewhere)
+- 3d Screen (graphics + physics optics comes into play)
 
 I am nearing my first publication regarding the advantages of assessing model fitness using _Sheaves_. Link to that coming soon
 
