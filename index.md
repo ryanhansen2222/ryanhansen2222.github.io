@@ -47,6 +47,7 @@ I mostly like chill music, reggae, funk, groovy, indie, some pop, and some rock.
 
 ## Philosophizing and Random other stuff
 A google doc where I have this stuff [doc](https://docs.google.com/document/d/e/2PACX-1vTsDKY4zTMTHi-7Ku6KE5wsMBQJ28zJXZJ4oOvG_5ZLxO3wl40lb3gkVgZdfwoCDV05iexHjVraGmn2/pub)
+- The key is to trust myself (make commitments with myself and keep them)
 ## Youtube Channel
 I do not recommend the sane person to look here
 [Best Youtube Channel](https://www.youtube.com/channel/UCv6qu4MZ11XC8TzNX-yr7sQ)
