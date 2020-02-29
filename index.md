@@ -19,6 +19,7 @@ _Note_, this is a perpetual work in progress site. I wouldn't call it a blog, bu
 12. buy a ton of magnets - make a float key holder - rocks in it and everything.
 13. Water features
 14. Plants (Cactus)
+15. Story building
 
 ## Research
 My hope is to use abstract math like category theory and topology, apply it to some phenomena, and notice that certain abstract properties happen to be very meaningful. 
@@ -51,7 +52,8 @@ A google doc where I have this stuff [doc](https://docs.google.com/document/d/e/
 I do not recommend the sane person to look here
 [Best Youtube Channel](https://www.youtube.com/channel/UCv6qu4MZ11XC8TzNX-yr7sQ)
 
-
+## Story Arc --
+Something super mental. Changes your mental perspective Hotel California style
 
 
 
